@@ -151,7 +151,3 @@ We welcome contributions to the NearBuy project! Here's how you can contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README should give you and your partner a solid starting point for your GitHub repository, clearly outlining how to set up, run, and deploy the project.
