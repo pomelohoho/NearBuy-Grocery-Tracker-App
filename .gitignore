@@ -1,0 +1,13 @@
+# Ignore Visual Studio and VS Code files
+.vs/
+.vscode/
+
+# Ignore backend build files
+backend/bin/
+backend/obj/
+
+# Ignore local settings
+backend/local.settings.json
+
+# Ignore node_modules in frontend
+frontend/node_modules/
